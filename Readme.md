@@ -1,8 +1,11 @@
 # Open Data and Public APIs workshop
 
 ## Workshop description
-This workshop introduces the students how to access publicly available near-real-time & historic data sources and teaches the students basic data visualizing in Rhino Grasshopper.
-The students will be introduced to concepts & technologies such as distributed systems and REST APIs. Through a series of beginner-level Grasshopper tutorials, the students will work with historic and near-real-time data and be asked to think about how and when to use these kind of data source. 
+This workshop introduces students to access publicly available near-real-time & historic data sources and learn basic data visualising in Rhino Grasshopper. 
+
+We will cover concepts & technologies such as distributed systems and REST APIs. 
+
+Through a series of beginner-level Grasshopper tutorials, the participants will work with historic and near-real-time data and be encouraged to think about how and when to use these data sources
 
 ## Workshop keywords
 - Publicly available real-time and historic data
@@ -103,7 +106,7 @@ In this tutorial we create a "heatmap" by interpolating environmental data from 
 - Import OSM data with ELK
 - Get lat/long from OSM
 - Convert lat/long to Rhino metric units (and the other way)
-- Gett data from AQIcn
+- Get data from AQIcn
 - Remap temperature data to greyscale color values
 - Color mesh with Mesh Spray
 - Update mesh vertices with height info from color
