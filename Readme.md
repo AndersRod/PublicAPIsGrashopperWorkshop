@@ -13,7 +13,7 @@ The students will be introduced to concepts & technologies such as distributed s
 
 ## Required software & Signups
 ### RhinoGrashopper plugins 
-- PublicAPI.gha from the /plugin/ folder
+- PublicAPI.gha from the [plugin folder](./plugin/)
 - [JSwan](https://www.food4rhino.com/app/jswan) 
 - [Human](https://www.food4rhino.com/app/human)
 - [Elk](https://www.food4rhino.com/app/elk) - version 2.2.2 
@@ -22,7 +22,7 @@ The students will be introduced to concepts & technologies such as distributed s
 - [AQIcn token](https://aqicn.org/data-platform/token/#/)
 
 ### Check that you are all set...
-Prior to the workshop, please check that you are all set by running the Grasshopper file called "0-1_checks.gh" found in /gh/ folder. You will need to add your AQIcn token to the textbox that says "Add IAQcn token here".
+Prior to the workshop, please check that you are all set by running the Grasshopper file called "0-1_checks.gh" found in [gh folder](./gh/). You will need to add your AQIcn token to the textbox that says "Add IAQcn token here".
 The script should look something like this:
 ![Check that you are all set...	](./assets/0_1_checks.png)
 
