@@ -1,7 +1,7 @@
 # Open Data and Public APIs workshop
 
 ## Workshop description
-This workshop introduces the students to access publicly available near-real-time & historic data sources and teaches the students basic data visualizing in Rhino Grasshopper.
+This workshop introduces the students how to access publicly available near-real-time & historic data sources and teaches the students basic data visualizing in Rhino Grasshopper.
 The students will be introduced to concepts & technologies such as distributed systems and REST APIs. Through a series of beginner-level Grasshopper tutorials, the students will work with historic and near-real-time data and be asked to think about how and when to use these kind of data source. 
 
 ## Workshop keywords
